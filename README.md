@@ -2,6 +2,10 @@
 
 This is a Marketing Website designed for SmartEnergi project. The website utilizes HTML, CSS, and JavaScript to create an interactive and visually appealing experience for visitors.
 
+## Video Demonstration
+
+https://github.com/SathruwanCooray/SmartEnergi/assets/150252729/a9cd75e3-5c90-44dc-9331-dc9569f37286
+
 ## Overview
 
 The Marketing Website serves as a platform to highlight key features and offerings of a business or organization. It includes sections such as:
